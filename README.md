@@ -56,7 +56,7 @@ The development follows Agile principles, focusing on iterative improvements and
 - As a manager, I want access to company-wide reports to measure our collective impact.
 - As a developer, I want CI/CD for automated testing and deployment.
 
-For a full list of user stories, see our [Backlog](#backlog-link).
+
 
 ## Project Roadmap
 The project is divided into sprints, with each delivering incremental features:
@@ -82,8 +82,6 @@ If you'd like to set up the project locally:
 3. Configure environment variables for authentication.
 4. Run the backend server using Spring Boot and access the frontend via your preferred local server.
 
-## Backlog Link
-If you have a backlog on a project management tool (e.g., Jira), provide the link here:
 > [Backlog Link](#) (replace with actual link if available)
 
 ## Legal Disclaimer
