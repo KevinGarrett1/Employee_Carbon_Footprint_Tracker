@@ -82,7 +82,5 @@ If you'd like to set up the project locally:
 3. Configure environment variables for authentication.
 4. Run the backend server using Spring Boot and access the frontend via your preferred local server.
 
-> [Backlog Link](#) (replace with actual link if available)
-
 ## Legal Disclaimer
 > This project is intended for demonstration purposes only. Unauthorized commercial use or distribution is prohibited. For licensing inquiries, please contact **[Your Email]**.
